@@ -1,0 +1,2 @@
+com/newtouch/order/client/feign/IOrder.class
+com/newtouch/order/client/feign/impl/FeignClient.class

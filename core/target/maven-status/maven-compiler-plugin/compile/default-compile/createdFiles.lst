@@ -1,0 +1,6 @@
+cn/newtouch/feign/ITransCore.class
+cn/newtouch/feign/impl/FeignClient.class
+cn/newtouch/feign/IRulesEng.class
+cn/newtouch/config/RedisConfig.class
+cn/newtouch/config/CoreInitConfig.class
+cn/newtouch/test.class
